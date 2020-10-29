@@ -1,0 +1,12 @@
+# PyCharm ignores
+.idea
+
+# Mac ignores
+.DS_Store
+
+# New Relic Diagnositc tool ignores
+nrdiag*
+
+# Django local dev ignores
+/db.sqlite3
+/harakiri-new-relic.log
